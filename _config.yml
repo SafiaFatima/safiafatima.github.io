@@ -1,6 +1,6 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: SafiaFatima/safiafatima.github.io
+#favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Safia Fatima
@@ -45,10 +45,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a MS Computer Science Graduate, researcher, and also working as a Lab Instructor in [FAST NUCES](http://pwr.nu.edu.pk/safia-fatima.php). My area of research includes
+  I am an MS Computer Science Graduate, researcher, and also working as a Lab Instructor in [FAST NUCES](http://pwr.nu.edu.pk/safia-fatima.php). My area of research includes
     - Medical Imaging
     - Artificial Intelligence
     - Semantic Segmentation
+    - Bioinformatics
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -62,9 +63,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Key Achievements & Awards  #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    - 2 Bronze Medal 
-    - Android Development Certification
-    - Female coordinator and International Member of ACM-Student Chapter
+    - **2 Bronze Medal** - NUCES, Pakistan - August 2012-May 2016
+    - **Android Development Certification** - NUCES, Pakistan - August 2012-May 2016
+    - **Female coordinator** and International Member of ACM-Student Chapter - NUCES, Pakistan - August 2012-May 2016
 # Footer
 footer_show_references: true
 
