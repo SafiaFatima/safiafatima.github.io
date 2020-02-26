@@ -26,5 +26,4 @@
     First Machine Learning based project 
   description: | # this will include new lines to allow paragraphs
     - Given dataset with the discrete values. It concludes weather yes or no? Decided on the basis of probability.
-    - Utilizing BRATS2015 as the primary dataset for Brain MRI Images.
     - Utilized Python and Scikit-learn framework for achieving higher accuracy.
