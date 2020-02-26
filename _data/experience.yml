@@ -1,10 +1,9 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: NUCES, Pakistan 
+  link: https://nu.edu.pk/
+  job_title: Lab Instructor
+  dates: January 2018 - present)
+  
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Teaching multiple courses for practical implementation in the field of Computer Science including Object oriented programming, Databases, and introduction to Python.
