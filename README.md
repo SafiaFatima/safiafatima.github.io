@@ -4,7 +4,7 @@
 
 
 
-## THEME
+## Theme
 
 The theme is taken from [modern-resume-theme](https://github.com/sproogen/modern-resume-theme).
 
