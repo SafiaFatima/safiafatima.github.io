@@ -3,12 +3,10 @@
 *My online portfolio.*
 
 
-[View Demo](https://sproogen.github.io/modern-resume-theme/)
-
 
 ## THEME
 
-The theme is taken from [modern-resume-theme] (https://github.com/sproogen/modern-resume-theme).
+The theme is taken from [modern-resume-theme](https://github.com/sproogen/modern-resume-theme).
 
 ## License
 
