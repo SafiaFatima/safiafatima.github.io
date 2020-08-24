@@ -25,5 +25,5 @@
   quote: >
     First Machine Learning based project 
   description: | # this will include new lines to allow paragraphs
-    - Given dataset with the discrete values. It concludes weather yes or no? Decided on the basis of probability.
+    - Given a dataset with the discrete values, it concludes whether yes or no? Decided on the basis of probability.
     - Utilized Python and Scikit-learn framework for achieving higher accuracy.
