@@ -4,7 +4,7 @@ repository: SafiaFatima/safiafatima.github.io
 
 # Personal info
 name: Safia Fatima
-title: Lab Instructor
+title: Lecturer
 email: safia.fatima@nu.edu.pk
 #phone: Your phone number (optional)
 website: https://safiafatima.github.io
@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an MS Computer Science Graduate, researcher, and also working as a Lab Instructor in [FAST NUCES](http://pwr.nu.edu.pk/cs-faculty-profile/?cs-profile=45). My area of research includes
+  I am an MS Computer Science Graduate, researcher, and also working as a Lecturer in [FAST NUCES](http://pwr.nu.edu.pk/cs-faculty-profile/?cs-profile=45). My area of research includes
     - Medical Imaging
     - Artificial Intelligence
     - Semantic Segmentation

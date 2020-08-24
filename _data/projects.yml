@@ -2,7 +2,7 @@
 - layout: top-middle
   name: Evaluation of Multi-Modal MRI Images for Brain Tumor Segmentation
   link: https://ieeexplore.ieee.org/abstract/document/8994408/
-  github: SafiaFatima/brats2015
+  github: SafiaFatima/brats2019
   quote: >
     Code repository for the published research paper
   description: | # this will include new lines to allow paragraphs
