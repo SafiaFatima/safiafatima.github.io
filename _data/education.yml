@@ -1,0 +1,23 @@
+# Education Template
+- layout: left
+  name: Coursera
+  dates: August 2020 - To Date
+  qualification: AI for Medicine Specialization
+  
+  description: | # this will include new lines to allow paragraphs
+    A three-course Specialization practical experience in applying machine learning to concrete problems in medicine and healthcare.
+- layout: left
+  name: NUCES, Pakistan
+  dates: 2016 - 2019
+  qualification: MSc Computer Science
+  
+  description: | # this will include new lines to allow paragraphs
+    Research and projects related to bioinformatics, Medical Imaging, Graph Theory, Rough sets, and Analysis of Algorithms. My thesis topic was "Evaluation of Multi-Modal MRI Images for Brain Tumor Segmentation".
+
+- layout: left
+  name: NUCES, Pakistan
+  dates: 2012 - 2016
+  qualification: BSc Computer Science
+  
+  description: | # this will include new lines to allow paragraphs
+    Final Year Project was entitled "Data Dissemination for Bioinformatics: An Agent Migration Approach"

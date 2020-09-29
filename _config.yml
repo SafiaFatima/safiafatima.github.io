@@ -1,0 +1,94 @@
+# Site
+repository: SafiaFatima/safiafatima.github.io
+#favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Safia Fatima
+title: Lecturer
+email: safia.fatima@nu.edu.pk
+#phone: Your phone number (optional)
+website: https://safiafatima.github.io
+
+darkmode: false
+
+# Social links
+#twitter_username: jekyllrb
+github_username:  SafiaFatima
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+instagram_username: safia.rana.9
+linkedin_username: SafiaFatima
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: Google Scholar
+  icon: fa-google
+  url: https://scholar.google.com/citations?user=Lg7o8R8AAAAJ&hl=en
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am an MS Computer Science Graduate, researcher, and also working as a Lecturer in [FAST NUCES](http://pwr.nu.edu.pk/cs-faculty-profile/?cs-profile=45). My area of research includes
+    - Medical Imaging
+    - Artificial Intelligence
+    - Semantic Segmentation
+    - Bioinformatics
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Key Achievements & Awards  #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+    - **2 Bronze Medal** - NUCES, Pakistan - August 2012-May 2016
+    - **Android Development Certification** - NUCES, Pakistan - August 2012-May 2016
+    - **Female coordinator** and International Member of ACM-Student Chapter - NUCES, Pakistan - August 2012-May 2016
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

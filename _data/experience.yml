@@ -1,0 +1,20 @@
+# Experience template
+- layout: left
+  company: NUCES, Pakistan
+  link: https://nu.edu.pk/
+  job_title: Lecturer
+  dates: July 2020 - Present
+ 
+  description: | # this will include new lines to allow paragraphs
+    - Promoted under the Computer Science Department as a Lecturer.
+    - Teaching courses including Object-Oriented Analysis & Design in Fall 2020.
+- layout: left
+  company: NUCES, Pakistan
+  link: https://nu.edu.pk/
+  job_title: Lab Instructor
+  dates: January 2018 - July 2020
+ 
+  description: | # this will include new lines to allow paragraphs
+    - Worked under the Computer Science Department as a Lab Instructor.
+    - Involved teaching courses including Introduction to Computing, Programming Fundamentals, and Digital Logic Design.
+    - Gained skills in Python and C++ programming languages.
