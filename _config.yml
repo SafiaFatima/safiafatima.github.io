@@ -6,7 +6,7 @@ repository: SafiaFatima/safiafatima.github.io
 name: Safia Fatima
 title: Lecturer
 email: safia.fatima@nu.edu.pk
-#phone: Your phone number (optional)
+#Resume: [here](SafiaFatimaResume.pdf).
 website: https://safiafatima.github.io
 
 darkmode: false
@@ -50,7 +50,9 @@ about_content: | # this will include new lines to allow paragraphs
     - Artificial Intelligence
     - Semantic Segmentation
     - Bioinformatics
+    
 
+  Here is the [link](SafiaFatimaResume.pdf) to my resume.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 

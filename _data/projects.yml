@@ -12,6 +12,7 @@
     - Presented and published in ICET'19 conference.
 - layout: top-middle
   name: Bron Kerbosch Algorithm
+  github: SafiaFatima/Bron-Kerbosch-Algorithm
   quote: >
     Open source Graph Theory C library contribution
   description: | # this will include new lines to allow paragraphs
