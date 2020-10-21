@@ -2,14 +2,21 @@
 - layout: top-middle
   name: Evaluation of Multi-Modal MRI Images for Brain Tumor Segmentation
   link: https://ieeexplore.ieee.org/abstract/document/8994408/
-  github: SafiaFatima/brats2019
+  github: SafiaFatima/brats2015
   quote: >
-    Code repository for the published research paper
+    Code repository for the published research paper 
   description: | # this will include new lines to allow paragraphs
     - A method that incorporates a deep learning-based model U-Net to address brain tumor localization.
-    - Utilizing BRATS2015 as the primary dataset for Brain MRI Images.
+    - Utilizing [BRATS2015](https://www.smir.ch/BRATS/Start2015) as the primary dataset for Brain MRI Images.
     - Using the same architecture for the evaluation of individual modalities.
     - Presented and published in ICET'19 conference.
+- layout: top-middle
+  name: Bron Kerbosch Algorithm
+  quote: >
+    Open source Graph Theory C library contribution
+  description: | # this will include new lines to allow paragraphs
+    - Code for implementing the BK algorithm to show all maximal cliques and one maximum clique from within set of maximal cliques.
+    - Implemented in C language using Graph Theory concepts.
 - layout: top-middle
   name: Data Dissemination for Bioinformatics - An Agent Migration Approach
 
@@ -20,10 +27,3 @@
     - The ability of migration offers mobile agents a means to overcome the high latency or limited bandwidth problem by moving their computations to required resources or services. Users will be able to see his/her activity graphically visualized logs and statistics on their smartphone screen.
     - The proposed approach can also overcome the resource limitation of mobile terminals and release mobile users from keeping online persistently.
 
-- layout: top-middle
-  name: IDE decision tree learning algorithm for decision making using Machine Learning
-  quote: >
-    First Machine Learning based project 
-  description: | # this will include new lines to allow paragraphs
-    - Given a dataset with the discrete values, it concludes whether yes or no? Decided on the basis of probability.
-    - Utilized Python and Scikit-learn framework for achieving higher accuracy.
