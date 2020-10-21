@@ -63,11 +63,13 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-more_title: Key Achievements & Awards  #(Use this to override about more section title)
+more_title: Key Achievements & Duties  #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    - **2 Bronze Medal** - NUCES, Pakistan - August 2012-May 2016
+    - **Sports Head** - NUCES, Pakistan - August 2020-To Date
+    - **Faculty Head ACM-Student Chapter** - NUCES, Pakistan - August 2020-To Date
+    - **2 Bronze Medal (BSCS)** - NUCES, Pakistan - August 2012-May 2016
     - **Android Development Certification** - NUCES, Pakistan - August 2012-May 2016
-    - **Female coordinator** and International Member of ACM-Student Chapter - NUCES, Pakistan - August 2012-May 2016
+    - **Vice-chairperson and International Member of ACM-Student Chapter** - NUCES, Pakistan - August 2012-May 2016
 # Footer
 footer_show_references: true
 
