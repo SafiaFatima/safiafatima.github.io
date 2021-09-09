@@ -27,4 +27,3 @@
     - An agent migration approach to fill in the gap that existing approaches have not addressed: retrieving remote data in a low-quality network environment, especially unstable mobile computing environments and do the client-side computation on the server end.
     - The ability of migration offers mobile agents a means to overcome the high latency or limited bandwidth problem by moving their computations to required resources or services. Users will be able to see his/her activity graphically visualized logs and statistics on their smartphone screen.
     - The proposed approach can also overcome the resource limitation of mobile terminals and release mobile users from keeping online persistently.
-
