@@ -1,5 +1,14 @@
 # Experience template
 - layout: left
+  company: Odetta.ai, USA
+  link: https://odetta.ai/
+  job_title: Python Scripter
+  dates: August 2021 - Present
+ 
+  description: | # this will include new lines to allow paragraphs
+    - Started working remotely as a Python Scripter at a US-based company.
+    - Working on projects related to data collection, data analytics, and web scraping.
+- layout: left
   company: NUCES, Pakistan
   link: https://nu.edu.pk/
   job_title: Lecturer
@@ -7,7 +16,7 @@
  
   description: | # this will include new lines to allow paragraphs
     - Promoted under the Computer Science Department as a Lecturer.
-    - Teaching courses including 'Object-Oriented Programming' and 'Software Analysis & Design' in Fall 2020.
+    - Teaching courses including 'Computer Architecture', 'Object-Oriented Programming' and 'Software Analysis & Design' in Fall 2020.
     - Supervising CS undergraduate students for their final capstone project in the fields of computer vision, deep learning, and time series analysis.
 - layout: left
   company: NUCES, Pakistan
