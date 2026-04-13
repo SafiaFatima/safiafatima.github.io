@@ -1,0 +1,31 @@
+# Experience template
+- layout: left
+  company: Simula Research Laboratory, Norway
+  link: https://www.simula.no/
+  job_title: Researcher & Developer
+  dates: March 2022 - Present
+
+  description: | # this will include new lines to allow paragraphs
+    - Led doctoral research on "Towards Self-Healing Software Systems using Adaptive Learning".
+    - Proposed 3 novel scientific contributions in self-healing traffic systems, causality-based reinforcement learning, and LLM-based failure recovery for autonomous driving.
+    - Gained extensive experience in simulated traffic system environments, reinforcement learning, attention networks, and large language models.
+    - Applied software engineering best practices including version control, testing, and CI/CD while staying current with state-of-the-art AI advancements.
+- layout: left
+  company: Odetta.ai, USA
+  link: https://odetta.ai/
+  job_title: Data Analyst
+  dates: August 2021 - January 2022
+
+  description: | # this will include new lines to allow paragraphs
+    - Worked remotely as a data analyst and Python Scripter at a US-based company.
+    - Working on projects related to data collection, data analytics, and web scraping.
+- layout: left
+  company: FAST NUCES, Pakistan
+  link: https://nu.edu.pk/
+  job_title: Lecturer & Lab Instructor
+  dates: January 2018 - January 2022
+
+  description: | # this will include new lines to allow paragraphs
+    - Promoted from Lab Instructor to Lecturer under the Computer Science Department.
+    - Taught courses including computer architecture, software design & analysis, object-oriented programming, Introduction to Computing, Databases, and Digital Logic Design.
+    - Supervised CS undergraduate projects in the fields of computer vision, deep learning, and time series analysis.

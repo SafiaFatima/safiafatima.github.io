@@ -1,0 +1,36 @@
+# Project template
+- layout: top-middle
+  name: Hierarchical LLM-Based Failure Recovery for Autonomous Driving
+  github: cureIT-project/Using-Large-Language-Models-to-Guide-Hierarchical-Recovery-in-Autonomous-Driving
+  quote: >
+    Ph.D. research project on using large language models for autonomous driving recovery
+  description: | # this will include new lines to allow paragraphs
+    - A hierarchical failure recovery framework that uses large language models (LLMs) to generate multi-step recovery plans when trained policies enter unsafe states.
+    - Integrates recovery mechanism with a proximal policy optimization agent trained in the CARLA simulator.
+    - Evaluates recovery success across four failure categories: collisions, lane departures, vehicle stalling, and speeding violations.
+- layout: top-middle
+  name: "CRRL: A Causality-Based Reinforcement Learning Framework for the Autonomous System Recovery"
+  github: cureIT-project/CRRL-A-Causality-Based-Reinforcement-Learning-Framework-for-the-Autonomous-System-Recovery
+  quote: >
+    Ph.D. research project on causality-based reinforcement learning for system recovery
+  description: | # this will include new lines to allow paragraphs
+    - A novel causality-based reinforcement learning framework for autonomous system recovery.
+    - Addresses the challenge of recovering autonomous systems from failure states using causal reasoning.
+- layout: top-middle
+  name: Self Healing of a Mixed Autonomy Traffic System Using Reinforcement Learning and Attention
+  github: cureIT-project/TS2RLA
+  quote: >
+    Ph.D. research project on self-healing traffic systems
+  description: | # this will include new lines to allow paragraphs
+    - A self-healing approach for mixed autonomy traffic systems using reinforcement learning and attention networks.
+    - Focuses on recovery of traffic flow after disruptions in environments with both autonomous and human-driven vehicles.
+- layout: top-middle
+  name: Evaluation of Multi-Modal Brain MRI Images for Glioblastomas
+  link: https://ieeexplore.ieee.org/abstract/document/8994408/
+  github: SafiaFatima/brats2015
+  quote: >
+    Code repository for the published research paper
+  description: | # this will include new lines to allow paragraphs
+    - A method that incorporates a deep learning-based model U-Net to address brain tumor localization.
+    - Utilizing [BRATS2015](https://www.smir.ch/BRATS/Start2015) as the primary dataset for Brain MRI Images.
+    - Presented and published in ICET'19 conference.
